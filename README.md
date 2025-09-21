@@ -1,4 +1,4 @@
-Lexia--Your-Ai-Your-Voice
+# Lexia--Your-Ai-Your-Voice
 Lexia is an intelligent voice-activated assistant built in Python that makes everyday tasks easier with natural voice commands.From opening websites to fetching weather updates, Lexia listens, understands, and acts—hands-free.It also comes with a clean Graphical User Interface (GUI) for users who prefer a visual experience.
 
 Key Features
